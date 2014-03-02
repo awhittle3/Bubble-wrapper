@@ -1,6 +1,8 @@
-package com.awhittle.bubblewrapper;
-
-/*
+/*The following code was borrowed from
+ * http://developer.android.com/training/graphics/opengl/index.html
+ * and modified to suit the needs of the application.
+ * 
+ *
  * Copyright (C) 2011 The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,6 +17,7 @@ package com.awhittle.bubblewrapper;
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+package com.awhittle.bubblewrapper;
 
 import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
