@@ -1,4 +1,4 @@
 Bubble-wrapper
 ==============
 
-User presses bubbles, which pop with a sound
+An android app where the user presses bubbles, which pop with a sound.
